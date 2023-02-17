@@ -1,0 +1,6 @@
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RimSlayer\1.4\Assemblies\RimSlayer.dll
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RimSlayer\1.4\Assemblies\RimSlayer.pdb
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RimSlayer\Source\RimSlayer\obj\Debug\RimSlayer.csproj.AssemblyReference.cache
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RimSlayer\Source\RimSlayer\obj\Debug\RimSlayer.csproj.CoreCompileInputs.cache
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RimSlayer\Source\RimSlayer\obj\Debug\RimSlayer.dll
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RimSlayer\Source\RimSlayer\obj\Debug\RimSlayer.pdb

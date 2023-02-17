@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rim Slayer</name>
+	<author>Crazedmonkey231</author>
+	<packageId>crazedmonkey231.rim.slayer</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Various weapons to fight creatures of the night.</description>
+	<loadAfter>
+        <li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.biotech</li>
+		<li>brrainz.harmony</li>
+    </loadAfter>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
