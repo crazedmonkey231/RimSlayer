@@ -26,7 +26,6 @@ namespace RimSlayer
                 Random rand = new Random();
                 float critChance = rand.Next(0, 100);
                 float damage = 1.0f;
-                Log.Message("Crit chance = " + critChance);
                 if(critChance < BaseMod.settings.GetModifiedCritChance())
                 {
                     MoteMaker.ThrowText(__instance.Position.ToVector3(), __instance.Map, "Critical Strike!");

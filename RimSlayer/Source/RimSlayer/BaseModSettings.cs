@@ -9,7 +9,7 @@ namespace RimSlayer
         public float damageMultiplier = 2.0f;
 
         public float GetModifiedCritChance() { 
-            return critChance * 100; 
+            return critChance; 
         }
 
         public override void ExposeData()
